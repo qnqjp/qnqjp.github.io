@@ -10,8 +10,7 @@
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
 		<link rel="stylesheet" href="assets/css/main.css" />
-		<!-- <link rel="stylesheet" href="assets/css/viewer.min.css"> -->
-		<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/viewerjs/1.5.0/viewer.min.css">
+		<link rel="stylesheet" href="assets/css/viewer.min.css">
 	</head>
 	<body class="is-preload">
 
@@ -436,6 +435,10 @@
 										
 										<li>ごめんね、時間が足りないからこんな程度だけ作った。</li>
 										<li>抱歉阿....沒時間只能先做這樣，以後會改好用一點</li>
+										<li><a href="https://drive.google.com/file/d/1oS-9MHymfntFZ0n5cU0MKdCki0WihBl-/view">
+											ソースファイルダウンロードはこちら<br>
+											資源檔在這裡下載
+										</a></li>
 									</ul>
 								</nav>
 								
@@ -443,7 +446,7 @@
 
 							<!-- Footer -->
 								<footer id="footer">
-									<p class="copyright">HTML Design: <a href="https://html5up.net">HTML5 UP</a></p>
+									<p class="copyright">Site Create: 鳥祐<br>HTML Design: <a href="https://html5up.net">HTML5 UP</a></p>
 								</footer>
 
 						</div>
@@ -457,14 +460,9 @@
 			<script src="assets/js/breakpoints.min.js"></script>
 			<script src="assets/js/util.js"></script>
 			<script src="assets/js/main.js"></script>
-			<!-- <script src="https://cdnjs.cloudflare.com/ajax/libs/viewerjs/1.5.0/viewer.min.js"></script> -->
-			<!-- <script src="assets/js/viewer-native.min.js"></script> -->
 			<script src="assets/js/viewer-jquery.min.js"></script>
 			<script src="assets/js/string.format.js"></script>
 			<script>
-				// let viewer = new viewer(document.getElementById('viewerjs'), {
-				// 	url: 'src',
-				// });
 				imgtype =  ['-card.png',
 							'-icon_s.png',
 							'-bustup_spine.png',
@@ -475,10 +473,7 @@
 					try {
 						viewer.destroy()
 					}catch (e){}
-					// $("#iframe-div").attr("src", $("#sel_book").val());
-					// $('#viewerjs').attr("src", $("#sel_book").val());
-					
-					// <li><img data-original="images/tibet-1.jpg" src="images/thumbnails/tibet-1.jpg" alt="Cuo Na Lake"></li>
+					// <li><img data-original="images/tibet-1.jpg" src="images/thumbnails/tibet-1.jpg" alt="画像の説明"></li>
 					$("#viewerjs > li").remove();
 					imgtype.forEach(phase_url => {
 						var dmurl = 'img/book{0}/{0}{1}'.format($("#sel_book").val(), phase_url)
@@ -487,22 +482,15 @@
 								$('<img>')
 								.attr('src', dmurl)
 								// .attr('onclick', 'window.open("{0}")'.format(dmurl))
-								// .attr('href', 'javascript:""')
-								// .attr('target', '_blank')
 						));
 					});
-					viewer = $('#viewerjs').viewer({
+					let viewer = $('#viewerjs').viewer({
 						url: 'src',
 					});
-
-					// native
-					// var viewer = new Viewer(document.getElementById('viewerjs'), {
-					// 	url: 'src'
-					// });
 				}
 				let fu = function(para){
 					alert('sdfa');
-					vi.show();
+					viewer.show();
 				}
 				$("#sel_book").change({}, selChange);
 				selChange();
