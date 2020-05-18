@@ -1,0 +1,13 @@
+
+book-3220-bustup_spine.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bustup
+  rotate: false
+  xy: 1, 1
+  size: 270, 270
+  orig: 270, 270
+  offset: 0, 0
+  index: -1

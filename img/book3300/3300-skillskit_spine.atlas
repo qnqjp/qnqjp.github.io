@@ -1,0 +1,76 @@
+
+book-3300-skillskit_spine.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chara
+  rotate: false
+  xy: 1227, 12
+  size: 612, 1009
+  orig: 612, 1020
+  offset: 0, 11
+  index: -1
+efx
+  rotate: false
+  xy: 614, 1
+  size: 612, 1020
+  orig: 612, 1020
+  offset: 0, 0
+  index: -1
+efx1
+  rotate: false
+  xy: 1, 1
+  size: 612, 1020
+  orig: 612, 1020
+  offset: 0, 0
+  index: -1
+emo0
+  rotate: false
+  xy: 1840, 907
+  size: 120, 114
+  orig: 612, 1020
+  offset: 318, 699
+  index: -1
+emo1
+  rotate: false
+  xy: 1840, 677
+  size: 119, 114
+  orig: 612, 1020
+  offset: 318, 699
+  index: -1
+emo2
+  rotate: false
+  xy: 1840, 562
+  size: 119, 114
+  orig: 612, 1020
+  offset: 318, 699
+  index: -1
+emo3
+  rotate: false
+  xy: 1840, 792
+  size: 120, 114
+  orig: 612, 1020
+  offset: 318, 699
+  index: -1
+emo4
+  rotate: true
+  xy: 1840, 319
+  size: 121, 103
+  orig: 612, 1020
+  offset: 318, 706
+  index: -1
+emo5
+  rotate: true
+  xy: 1840, 441
+  size: 120, 106
+  orig: 612, 1020
+  offset: 318, 705
+  index: -1
+emo6
+  rotate: true
+  xy: 1840, 196
+  size: 122, 98
+  orig: 612, 1020
+  offset: 316, 712
+  index: -1

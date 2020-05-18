@@ -1,0 +1,55 @@
+
+book-1210-enemy_spine.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+emo0
+  rotate: false
+  xy: 697, 430
+  size: 42, 30
+  orig: 422, 714
+  offset: 236, 539
+  index: -1
+emo1
+  rotate: false
+  xy: 46, 35
+  size: 43, 30
+  orig: 422, 714
+  offset: 235, 539
+  index: -1
+emo2
+  rotate: true
+  xy: 654, 383
+  size: 43, 30
+  orig: 422, 714
+  offset: 235, 539
+  index: -1
+emo3
+  rotate: false
+  xy: 1, 33
+  size: 44, 32
+  orig: 422, 714
+  offset: 234, 539
+  index: -1
+emo4
+  rotate: false
+  xy: 654, 427
+  size: 42, 33
+  orig: 422, 714
+  offset: 236, 536
+  index: -1
+emo5
+  rotate: false
+  xy: 1, 1
+  size: 43, 31
+  orig: 422, 714
+  offset: 235, 539
+  index: -1
+enemy0
+  rotate: true
+  xy: 1, 66
+  size: 394, 652
+  orig: 422, 714
+  offset: 14, 29
+  index: -1

@@ -1,0 +1,62 @@
+
+book-4205-skillskit_spine.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chara
+  rotate: false
+  xy: 1, 1
+  size: 615, 1020
+  orig: 615, 1020
+  offset: 0, 0
+  index: -1
+eye0
+  rotate: false
+  xy: 617, 990
+  size: 45, 31
+  orig: 615, 1020
+  offset: 369, 825
+  index: -1
+eye1
+  rotate: false
+  xy: 713, 997
+  size: 44, 24
+  orig: 615, 1020
+  offset: 366, 825
+  index: -1
+eye12
+  rotate: true
+  xy: 617, 896
+  size: 46, 28
+  orig: 615, 1020
+  offset: 364, 820
+  index: -1
+eye2
+  rotate: true
+  xy: 617, 943
+  size: 46, 29
+  orig: 615, 1020
+  offset: 364, 820
+  index: -1
+eye3
+  rotate: true
+  xy: 617, 850
+  size: 45, 27
+  orig: 615, 1020
+  offset: 365, 821
+  index: -1
+eye6
+  rotate: false
+  xy: 663, 996
+  size: 49, 25
+  orig: 615, 1020
+  offset: 361, 823
+  index: -1
+eye9
+  rotate: false
+  xy: 663, 996
+  size: 49, 25
+  orig: 615, 1020
+  offset: 361, 823
+  index: -1

@@ -1,0 +1,62 @@
+
+book-2026-skillskit_spine.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chara
+  rotate: false
+  xy: 1, 1
+  size: 618, 1020
+  orig: 618, 1020
+  offset: 0, 0
+  index: -1
+emo0
+  rotate: false
+  xy: 698, 956
+  size: 78, 65
+  orig: 618, 1020
+  offset: 295, 621
+  index: -1
+emo1
+  rotate: true
+  xy: 620, 873
+  size: 79, 65
+  orig: 618, 1020
+  offset: 294, 621
+  index: -1
+emo2
+  rotate: false
+  xy: 777, 956
+  size: 76, 65
+  orig: 618, 1020
+  offset: 297, 621
+  index: -1
+emo3
+  rotate: true
+  xy: 620, 795
+  size: 77, 65
+  orig: 618, 1020
+  offset: 296, 621
+  index: -1
+emo4
+  rotate: false
+  xy: 854, 963
+  size: 73, 58
+  orig: 618, 1020
+  offset: 297, 621
+  index: -1
+emo5
+  rotate: false
+  xy: 620, 953
+  size: 77, 68
+  orig: 618, 1020
+  offset: 295, 615
+  index: -1
+emo6
+  rotate: true
+  xy: 620, 719
+  size: 75, 57
+  orig: 618, 1020
+  offset: 296, 620
+  index: -1

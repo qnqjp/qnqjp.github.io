@@ -1,0 +1,167 @@
+
+book-1235-skillskit_spine.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ang_e
+  rotate: false
+  xy: 720, 703
+  size: 81, 42
+  orig: 609, 1020
+  offset: 329, 703
+  index: -1
+ang_e1
+  rotate: false
+  xy: 923, 831
+  size: 82, 43
+  orig: 609, 1020
+  offset: 328, 702
+  index: -1
+ang_e2
+  rotate: false
+  xy: 723, 832
+  size: 82, 43
+  orig: 609, 1020
+  offset: 328, 702
+  index: -1
+ang_j
+  rotate: false
+  xy: 832, 841
+  size: 90, 40
+  orig: 609, 1020
+  offset: 329, 716
+  index: -1
+ang_m
+  rotate: false
+  xy: 611, 188
+  size: 89, 113
+  orig: 609, 1020
+  offset: 308, 606
+  index: -1
+chara
+  rotate: false
+  xy: 1, 1
+  size: 609, 1020
+  orig: 609, 1020
+  offset: 0, 0
+  index: -1
+def_e0
+  rotate: false
+  xy: 720, 660
+  size: 81, 42
+  orig: 609, 1020
+  offset: 329, 703
+  index: -1
+def_e1
+  rotate: false
+  xy: 720, 789
+  size: 82, 42
+  orig: 609, 1020
+  offset: 328, 703
+  index: -1
+def_e2
+  rotate: false
+  xy: 720, 746
+  size: 82, 42
+  orig: 609, 1020
+  offset: 328, 703
+  index: -1
+def_j
+  rotate: true
+  xy: 695, 94
+  size: 93, 37
+  orig: 609, 1020
+  offset: 326, 718
+  index: -1
+def_m
+  rotate: false
+  xy: 611, 78
+  size: 83, 109
+  orig: 609, 1020
+  offset: 311, 610
+  index: -1
+emo0
+  rotate: false
+  xy: 611, 725
+  size: 108, 145
+  orig: 609, 1020
+  offset: 311, 610
+  index: -1
+emo1
+  rotate: false
+  xy: 723, 876
+  size: 108, 145
+  orig: 609, 1020
+  offset: 311, 610
+  index: -1
+emo2
+  rotate: false
+  xy: 611, 579
+  size: 108, 145
+  orig: 609, 1020
+  offset: 311, 610
+  index: -1
+emo3
+  rotate: false
+  xy: 611, 302
+  size: 109, 136
+  orig: 609, 1020
+  offset: 311, 618
+  index: -1
+emo4
+  rotate: false
+  xy: 832, 882
+  size: 108, 139
+  orig: 609, 1020
+  offset: 311, 614
+  index: -1
+emo5
+  rotate: false
+  xy: 611, 871
+  size: 111, 150
+  orig: 609, 1020
+  offset: 308, 606
+  index: -1
+emo6
+  rotate: false
+  xy: 611, 439
+  size: 108, 139
+  orig: 609, 1020
+  offset: 311, 614
+  index: -1
+joy_b
+  rotate: true
+  xy: 701, 206
+  size: 95, 35
+  orig: 609, 1020
+  offset: 325, 719
+  index: -1
+joy_e
+  rotate: false
+  xy: 720, 625
+  size: 81, 34
+  orig: 609, 1020
+  offset: 329, 711
+  index: -1
+joy_e1
+  rotate: false
+  xy: 611, 33
+  size: 82, 44
+  orig: 609, 1020
+  offset: 328, 701
+  index: -1
+joy_e2
+  rotate: false
+  xy: 941, 875
+  size: 82, 44
+  orig: 609, 1020
+  offset: 328, 701
+  index: -1
+joy_m
+  rotate: false
+  xy: 941, 920
+  size: 82, 101
+  orig: 609, 1020
+  offset: 311, 618
+  index: -1

@@ -1,0 +1,13 @@
+
+book-1275-enemy_spine.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+enemy0
+  rotate: true
+  xy: 1, 1
+  size: 420, 678
+  orig: 436, 714
+  offset: 7, 18
+  index: -1

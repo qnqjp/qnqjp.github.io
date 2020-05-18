@@ -1,0 +1,90 @@
+
+book-4170-enemy_spine.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+c2_emo0
+  rotate: false
+  xy: 1, 116
+  size: 60, 39
+  orig: 369, 612
+  offset: 73, 324
+  index: -1
+c2_emo1
+  rotate: false
+  xy: 560, 464
+  size: 60, 37
+  orig: 369, 612
+  offset: 73, 324
+  index: -1
+c2_emo2
+  rotate: false
+  xy: 62, 119
+  size: 49, 36
+  orig: 369, 612
+  offset: 80, 324
+  index: -1
+c2_emo3
+  rotate: false
+  xy: 1, 72
+  size: 52, 43
+  orig: 369, 612
+  offset: 77, 324
+  index: -1
+c3_emo0
+  rotate: false
+  xy: 560, 419
+  size: 35, 44
+  orig: 369, 612
+  offset: 127, 142
+  index: -1
+emo0
+  rotate: false
+  xy: 560, 386
+  size: 33, 32
+  orig: 369, 612
+  offset: 234, 485
+  index: -1
+emo1
+  rotate: false
+  xy: 658, 470
+  size: 32, 31
+  orig: 369, 612
+  offset: 235, 485
+  index: -1
+emo2
+  rotate: false
+  xy: 1, 1
+  size: 32, 31
+  orig: 369, 612
+  offset: 235, 485
+  index: -1
+emo3
+  rotate: false
+  xy: 621, 466
+  size: 36, 35
+  orig: 369, 612
+  offset: 233, 483
+  index: -1
+emo4
+  rotate: false
+  xy: 1, 33
+  size: 33, 38
+  orig: 369, 612
+  offset: 234, 478
+  index: -1
+emo5
+  rotate: false
+  xy: 112, 123
+  size: 39, 32
+  orig: 369, 612
+  offset: 228, 484
+  index: -1
+enemy0
+  rotate: true
+  xy: 1, 156
+  size: 345, 558
+  orig: 369, 612
+  offset: 12, 24
+  index: -1

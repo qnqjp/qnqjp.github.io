@@ -1,0 +1,132 @@
+
+book-4230-skillskit_spine.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+000e1
+  rotate: false
+  xy: 1311, 25
+  size: 99, 64
+  orig: 608, 1020
+  offset: 221, 789
+  index: -1
+000e2
+  rotate: false
+  xy: 1505, 32
+  size: 93, 57
+  orig: 608, 1020
+  offset: 226, 790
+  index: -1
+005b
+  rotate: false
+  xy: 1599, 33
+  size: 90, 56
+  orig: 608, 1020
+  offset: 205, 832
+  index: -1
+005e
+  rotate: false
+  xy: 1411, 31
+  size: 93, 58
+  orig: 608, 1020
+  offset: 226, 790
+  index: -1
+005m
+  rotate: false
+  xy: 1865, 622
+  size: 37, 33
+  orig: 608, 1020
+  offset: 268, 754
+  index: -1
+015b
+  rotate: true
+  xy: 1690, 13
+  size: 76, 61
+  orig: 608, 1020
+  offset: 207, 823
+  index: -1
+015e
+  rotate: false
+  xy: 1210, 14
+  size: 100, 75
+  orig: 608, 1020
+  offset: 219, 788
+  index: -1
+015m
+  rotate: false
+  xy: 1505, 1
+  size: 38, 30
+  orig: 608, 1020
+  offset: 269, 754
+  index: -1
+bg
+  rotate: false
+  xy: 1, 16
+  size: 608, 1007
+  orig: 608, 1020
+  offset: 0, 11
+  index: -1
+chara
+  rotate: false
+  xy: 610, 15
+  size: 599, 1008
+  orig: 608, 1020
+  offset: 3, 0
+  index: -1
+emo0
+  rotate: true
+  xy: 1752, 794
+  size: 116, 137
+  orig: 608, 1020
+  offset: 203, 754
+  index: -1
+emo1
+  rotate: false
+  xy: 1918, 886
+  size: 117, 137
+  orig: 608, 1020
+  offset: 203, 754
+  index: -1
+emo2
+  rotate: true
+  xy: 1890, 769
+  size: 116, 137
+  orig: 608, 1020
+  offset: 203, 754
+  index: -1
+emo3
+  rotate: true
+  xy: 1752, 679
+  size: 114, 134
+  orig: 608, 1020
+  offset: 205, 754
+  index: -1
+emo4
+  rotate: true
+  xy: 1752, 568
+  size: 110, 112
+  orig: 608, 1020
+  offset: 209, 764
+  index: -1
+emo5
+  rotate: true
+  xy: 1887, 656
+  size: 112, 130
+  orig: 608, 1020
+  offset: 207, 754
+  index: -1
+emo6
+  rotate: true
+  xy: 1726, 911
+  size: 112, 191
+  orig: 608, 1020
+  offset: 207, 757
+  index: -1
+front
+  rotate: false
+  xy: 1210, 90
+  size: 515, 933
+  orig: 608, 1020
+  offset: 38, 43
+  index: -1

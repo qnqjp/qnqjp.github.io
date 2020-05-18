@@ -1,0 +1,55 @@
+
+book-1300-enemy_spine.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+emo0
+  rotate: false
+  xy: 782, 284
+  size: 101, 138
+  orig: 432, 714
+  offset: 172, 452
+  index: -1
+emo1
+  rotate: false
+  xy: 680, 4
+  size: 101, 138
+  orig: 432, 714
+  offset: 172, 452
+  index: -1
+emo2
+  rotate: false
+  xy: 782, 145
+  size: 101, 138
+  orig: 432, 714
+  offset: 172, 452
+  index: -1
+emo3
+  rotate: false
+  xy: 680, 283
+  size: 101, 139
+  orig: 432, 714
+  offset: 172, 451
+  index: -1
+emo4
+  rotate: false
+  xy: 680, 143
+  size: 101, 139
+  orig: 432, 714
+  offset: 172, 451
+  index: -1
+emo5
+  rotate: false
+  xy: 884, 284
+  size: 101, 138
+  orig: 432, 714
+  offset: 172, 452
+  index: -1
+enemy0
+  rotate: true
+  xy: 1, 1
+  size: 421, 678
+  orig: 432, 714
+  offset: 5, 18
+  index: -1

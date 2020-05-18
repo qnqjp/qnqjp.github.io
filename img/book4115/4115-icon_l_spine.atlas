@@ -1,0 +1,83 @@
+
+book-4115-icon_l_spine.png
+size: 256,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+book0
+  rotate: false
+  xy: 1, 355
+  size: 195, 155
+  orig: 196, 155
+  offset: 0, 0
+  index: -1
+book_p0
+  rotate: false
+  xy: 157, 148
+  size: 98, 155
+  orig: 196, 155
+  offset: 0, 0
+  index: -1
+book_p1
+  rotate: false
+  xy: 1, 1
+  size: 97, 154
+  orig: 196, 155
+  offset: 98, 1
+  index: -1
+book_p2
+  rotate: true
+  xy: 1, 255
+  size: 99, 155
+  orig: 196, 155
+  offset: 0, 0
+  index: -1
+book_p3
+  rotate: true
+  xy: 1, 156
+  size: 98, 155
+  orig: 196, 155
+  offset: 97, 0
+  index: -1
+bookemo0
+  rotate: false
+  xy: 197, 442
+  size: 57, 68
+  orig: 196, 155
+  offset: 57, 39
+  index: -1
+bookemo1
+  rotate: false
+  xy: 197, 373
+  size: 57, 68
+  orig: 196, 155
+  offset: 57, 39
+  index: -1
+bookemo2
+  rotate: false
+  xy: 99, 79
+  size: 60, 68
+  orig: 196, 155
+  offset: 54, 39
+  index: -1
+bookemo3
+  rotate: true
+  xy: 160, 88
+  size: 59, 68
+  orig: 196, 155
+  offset: 55, 39
+  index: -1
+bookemo4
+  rotate: false
+  xy: 197, 304
+  size: 57, 68
+  orig: 196, 155
+  offset: 57, 39
+  index: -1
+bookemo5
+  rotate: false
+  xy: 99, 10
+  size: 60, 68
+  orig: 196, 155
+  offset: 54, 39
+  index: -1

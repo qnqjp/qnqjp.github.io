@@ -1,0 +1,55 @@
+
+book-2026-enemy_spine.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+emo0
+  rotate: false
+  xy: 652, 449
+  size: 51, 41
+  orig: 391, 650
+  offset: 186, 392
+  index: -1
+emo1
+  rotate: true
+  xy: 1, 1
+  size: 51, 41
+  orig: 391, 650
+  offset: 186, 392
+  index: -1
+emo2
+  rotate: false
+  xy: 52, 57
+  size: 50, 41
+  orig: 391, 650
+  offset: 187, 392
+  index: -1
+emo3
+  rotate: false
+  xy: 652, 407
+  size: 50, 41
+  orig: 391, 650
+  offset: 187, 392
+  index: -1
+emo4
+  rotate: false
+  xy: 1, 53
+  size: 50, 45
+  orig: 391, 650
+  offset: 186, 387
+  index: -1
+emo5
+  rotate: false
+  xy: 704, 454
+  size: 48, 36
+  orig: 391, 650
+  offset: 187, 391
+  index: -1
+enemy0
+  rotate: true
+  xy: 1, 99
+  size: 391, 650
+  orig: 391, 650
+  offset: 0, 0
+  index: -1

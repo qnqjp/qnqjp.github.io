@@ -1,0 +1,13 @@
+
+book-3310-skillskit_spine.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chara
+  rotate: false
+  xy: 1, 1
+  size: 609, 1003
+  orig: 612, 1020
+  offset: 0, 17
+  index: -1

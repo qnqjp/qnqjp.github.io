@@ -1,0 +1,153 @@
+
+book-4020-skillskit_spine.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chara
+  rotate: false
+  xy: 1, 1
+  size: 603, 1020
+  orig: 603, 1020
+  offset: 0, 0
+  index: -1
+eye0
+  rotate: false
+  xy: 605, 893
+  size: 53, 60
+  orig: 603, 1020
+  offset: 398, 789
+  index: -1
+eye12
+  rotate: false
+  xy: 605, 832
+  size: 48, 60
+  orig: 603, 1020
+  offset: 401, 791
+  index: -1
+eye3
+  rotate: false
+  xy: 662, 961
+  size: 52, 60
+  orig: 603, 1020
+  offset: 400, 789
+  index: -1
+eye6
+  rotate: false
+  xy: 605, 954
+  size: 56, 67
+  orig: 603, 1020
+  offset: 399, 783
+  index: -1
+eye9
+  rotate: false
+  xy: 715, 965
+  size: 48, 56
+  orig: 603, 1020
+  offset: 402, 789
+  index: -1
+mouth0
+  rotate: false
+  xy: 605, 791
+  size: 34, 40
+  orig: 603, 1020
+  offset: 385, 783
+  index: -1
+mouth1
+  rotate: false
+  xy: 605, 710
+  size: 30, 39
+  orig: 603, 1020
+  offset: 388, 784
+  index: -1
+mouth10
+  rotate: false
+  xy: 605, 599
+  size: 20, 19
+  orig: 603, 1020
+  offset: 390, 786
+  index: -1
+mouth11
+  rotate: false
+  xy: 971, 1004
+  size: 16, 17
+  orig: 603, 1020
+  offset: 393, 788
+  index: -1
+mouth12
+  rotate: false
+  xy: 605, 750
+  size: 32, 40
+  orig: 603, 1020
+  offset: 389, 784
+  index: -1
+mouth13
+  rotate: false
+  xy: 764, 981
+  size: 33, 40
+  orig: 603, 1020
+  offset: 388, 784
+  index: -1
+mouth14
+  rotate: false
+  xy: 798, 981
+  size: 32, 40
+  orig: 603, 1020
+  offset: 389, 784
+  index: -1
+mouth2
+  rotate: false
+  xy: 865, 984
+  size: 29, 37
+  orig: 603, 1020
+  offset: 389, 786
+  index: -1
+mouth3
+  rotate: false
+  xy: 895, 991
+  size: 26, 30
+  orig: 603, 1020
+  offset: 388, 784
+  index: -1
+mouth4
+  rotate: false
+  xy: 605, 619
+  size: 23, 26
+  orig: 603, 1020
+  offset: 389, 786
+  index: -1
+mouth5
+  rotate: false
+  xy: 922, 991
+  size: 23, 30
+  orig: 603, 1020
+  offset: 392, 786
+  index: -1
+mouth6
+  rotate: false
+  xy: 831, 983
+  size: 33, 38
+  orig: 603, 1020
+  offset: 385, 782
+  index: -1
+mouth7
+  rotate: false
+  xy: 605, 676
+  size: 30, 33
+  orig: 603, 1020
+  offset: 386, 783
+  index: -1
+mouth8
+  rotate: false
+  xy: 605, 646
+  size: 25, 29
+  orig: 603, 1020
+  offset: 388, 785
+  index: -1
+mouth9
+  rotate: false
+  xy: 946, 1000
+  size: 24, 21
+  orig: 603, 1020
+  offset: 386, 784
+  index: -1

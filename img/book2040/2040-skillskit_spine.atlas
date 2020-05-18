@@ -1,0 +1,62 @@
+
+book-2040-skillskit_spine.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chara
+  rotate: false
+  xy: 1, 1
+  size: 623, 1020
+  orig: 623, 1020
+  offset: 0, 0
+  index: -1
+emo0
+  rotate: true
+  xy: 625, 805
+  size: 120, 88
+  orig: 623, 1020
+  offset: 207, 811
+  index: -1
+emo1
+  rotate: false
+  xy: 745, 933
+  size: 120, 88
+  orig: 623, 1020
+  offset: 207, 811
+  index: -1
+emo2
+  rotate: true
+  xy: 625, 684
+  size: 120, 88
+  orig: 623, 1020
+  offset: 207, 811
+  index: -1
+emo3
+  rotate: false
+  xy: 866, 933
+  size: 119, 88
+  orig: 623, 1020
+  offset: 208, 811
+  index: -1
+emo4
+  rotate: true
+  xy: 625, 564
+  size: 119, 88
+  orig: 623, 1020
+  offset: 208, 811
+  index: -1
+emo5
+  rotate: false
+  xy: 625, 926
+  size: 119, 95
+  orig: 623, 1020
+  offset: 208, 804
+  index: -1
+emo6
+  rotate: true
+  xy: 625, 444
+  size: 119, 89
+  orig: 623, 1020
+  offset: 208, 810
+  index: -1

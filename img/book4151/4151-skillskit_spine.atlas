@@ -1,0 +1,188 @@
+
+book-4151-skillskit_spine.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chara
+  rotate: false
+  xy: 1, 1
+  size: 613, 1020
+  orig: 613, 1020
+  offset: 0, 0
+  index: -1
+eye0
+  rotate: false
+  xy: 615, 687
+  size: 90, 22
+  orig: 613, 1020
+  offset: 371, 904
+  index: -1
+eye1
+  rotate: false
+  xy: 846, 996
+  size: 91, 25
+  orig: 613, 1020
+  offset: 371, 904
+  index: -1
+eye2
+  rotate: false
+  xy: 936, 984
+  size: 87, 11
+  orig: 613, 1020
+  offset: 372, 906
+  index: -1
+eye3
+  rotate: false
+  xy: 846, 982
+  size: 89, 13
+  orig: 613, 1020
+  offset: 371, 909
+  index: -1
+eye4
+  rotate: false
+  xy: 729, 801
+  size: 90, 22
+  orig: 613, 1020
+  offset: 371, 904
+  index: -1
+eye5
+  rotate: false
+  xy: 615, 673
+  size: 89, 13
+  orig: 613, 1020
+  offset: 371, 909
+  index: -1
+eye6
+  rotate: false
+  xy: 936, 972
+  size: 87, 11
+  orig: 613, 1020
+  offset: 372, 906
+  index: -1
+eyebrow0
+  rotate: false
+  xy: 729, 790
+  size: 90, 10
+  orig: 613, 1020
+  offset: 370, 932
+  index: -1
+eyebrow1
+  rotate: false
+  xy: 615, 664
+  size: 88, 8
+  orig: 613, 1020
+  offset: 372, 933
+  index: -1
+eyebrow2
+  rotate: false
+  xy: 938, 996
+  size: 84, 15
+  orig: 613, 1020
+  offset: 375, 917
+  index: -1
+eyebrow3
+  rotate: false
+  xy: 729, 781
+  size: 84, 8
+  orig: 613, 1020
+  offset: 373, 924
+  index: -1
+eyebrow4
+  rotate: false
+  xy: 938, 1012
+  size: 85, 9
+  orig: 613, 1020
+  offset: 372, 921
+  index: -1
+face0
+  rotate: false
+  xy: 615, 824
+  size: 230, 197
+  orig: 613, 1020
+  offset: 361, 800
+  index: -1
+mouth0
+  rotate: false
+  xy: 846, 962
+  size: 23, 19
+  orig: 613, 1020
+  offset: 404, 866
+  index: -1
+mouth1
+  rotate: false
+  xy: 705, 673
+  size: 23, 13
+  orig: 613, 1020
+  offset: 404, 870
+  index: -1
+mouth4
+  rotate: false
+  xy: 705, 673
+  size: 23, 13
+  orig: 613, 1020
+  offset: 404, 870
+  index: -1
+mouth12
+  rotate: false
+  xy: 870, 975
+  size: 19, 6
+  orig: 613, 1020
+  offset: 406, 872
+  index: -1
+mouth2
+  rotate: false
+  xy: 704, 666
+  size: 20, 6
+  orig: 613, 1020
+  offset: 406, 872
+  index: -1
+mouth3
+  rotate: false
+  xy: 820, 802
+  size: 23, 21
+  orig: 613, 1020
+  offset: 404, 865
+  index: -1
+mouth5
+  rotate: true
+  xy: 846, 935
+  size: 26, 8
+  orig: 613, 1020
+  offset: 403, 872
+  index: -1
+mouth6
+  rotate: false
+  xy: 615, 643
+  size: 22, 20
+  orig: 613, 1020
+  offset: 405, 865
+  index: -1
+mouth7
+  rotate: false
+  xy: 729, 767
+  size: 22, 13
+  orig: 613, 1020
+  offset: 405, 869
+  index: -1
+mouth8
+  rotate: false
+  xy: 820, 795
+  size: 19, 6
+  orig: 613, 1020
+  offset: 406, 873
+  index: -1
+mouth9
+  rotate: false
+  xy: 706, 687
+  size: 22, 22
+  orig: 613, 1020
+  offset: 405, 864
+  index: -1
+option0
+  rotate: false
+  xy: 615, 710
+  size: 113, 113
+  orig: 613, 1020
+  offset: 360, 897
+  index: -1

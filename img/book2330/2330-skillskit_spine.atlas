@@ -1,0 +1,153 @@
+
+book-2330-skillskit_spine.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chara
+  rotate: true
+  xy: 656, 612
+  size: 357, 1013
+  orig: 655, 1020
+  offset: 175, 0
+  index: -1
+effect_back
+  rotate: false
+  xy: 1, 1
+  size: 654, 968
+  orig: 655, 1020
+  offset: 1, 35
+  index: -1
+effect_f
+  rotate: false
+  xy: 656, 451
+  size: 152, 160
+  orig: 655, 1020
+  offset: 471, 860
+  index: -1
+emo0
+  rotate: false
+  xy: 1773, 751
+  size: 102, 107
+  orig: 655, 1020
+  offset: 277, 850
+  index: -1
+emo1
+  rotate: false
+  xy: 1876, 862
+  size: 102, 107
+  orig: 655, 1020
+  offset: 277, 850
+  index: -1
+emo2
+  rotate: false
+  xy: 656, 120
+  size: 102, 107
+  orig: 655, 1020
+  offset: 277, 850
+  index: -1
+emo3
+  rotate: false
+  xy: 1015, 509
+  size: 102, 102
+  orig: 655, 1020
+  offset: 277, 855
+  index: -1
+emo4
+  rotate: false
+  xy: 1773, 649
+  size: 102, 101
+  orig: 655, 1020
+  offset: 277, 856
+  index: -1
+emo5
+  rotate: false
+  xy: 1876, 762
+  size: 102, 99
+  orig: 655, 1020
+  offset: 277, 858
+  index: -1
+emo5_1
+  rotate: false
+  xy: 656, 20
+  size: 102, 99
+  orig: 655, 1020
+  offset: 277, 858
+  index: -1
+emo5_2
+  rotate: false
+  xy: 1118, 512
+  size: 102, 99
+  orig: 655, 1020
+  offset: 277, 858
+  index: -1
+emo6
+  rotate: false
+  xy: 1670, 636
+  size: 102, 109
+  orig: 655, 1020
+  offset: 277, 848
+  index: -1
+emo6_1
+  rotate: false
+  xy: 1670, 636
+  size: 102, 109
+  orig: 655, 1020
+  offset: 277, 848
+  index: -1
+emo6_2
+  rotate: false
+  xy: 1670, 636
+  size: 102, 109
+  orig: 655, 1020
+  offset: 277, 848
+  index: -1
+emo7
+  rotate: false
+  xy: 1773, 859
+  size: 102, 110
+  orig: 655, 1020
+  offset: 277, 847
+  index: -1
+emo7_1
+  rotate: false
+  xy: 656, 228
+  size: 102, 110
+  orig: 655, 1020
+  offset: 277, 847
+  index: -1
+emo7_2
+  rotate: false
+  xy: 912, 501
+  size: 102, 110
+  orig: 655, 1020
+  offset: 277, 847
+  index: -1
+emo8
+  rotate: false
+  xy: 656, 339
+  size: 102, 111
+  orig: 655, 1020
+  offset: 277, 846
+  index: -1
+emo9
+  rotate: false
+  xy: 809, 500
+  size: 102, 111
+  orig: 655, 1020
+  offset: 277, 846
+  index: -1
+emo9_1
+  rotate: false
+  xy: 1670, 746
+  size: 102, 111
+  orig: 655, 1020
+  offset: 277, 846
+  index: -1
+emo9_2
+  rotate: false
+  xy: 1670, 858
+  size: 102, 111
+  orig: 655, 1020
+  offset: 277, 846
+  index: -1

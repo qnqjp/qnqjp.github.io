@@ -1,0 +1,69 @@
+
+book-4125-bustup_spine.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bustup
+  rotate: false
+  xy: 270, 162
+  size: 188, 295
+  orig: 270, 300
+  offset: 69, 0
+  index: -1
+emo0
+  rotate: true
+  xy: 232, 79
+  size: 77, 60
+  orig: 270, 300
+  offset: 85, 93
+  index: -1
+emo1
+  rotate: false
+  xy: 293, 101
+  size: 77, 60
+  orig: 270, 300
+  offset: 85, 93
+  index: -1
+emo2
+  rotate: false
+  xy: 371, 101
+  size: 77, 60
+  orig: 270, 300
+  offset: 85, 93
+  index: -1
+emo3
+  rotate: false
+  xy: 154, 89
+  size: 77, 67
+  orig: 270, 300
+  offset: 85, 84
+  index: -1
+emo4
+  rotate: false
+  xy: 1, 77
+  size: 77, 79
+  orig: 270, 300
+  offset: 85, 77
+  index: -1
+emo5
+  rotate: false
+  xy: 79, 85
+  size: 74, 71
+  orig: 270, 300
+  offset: 88, 82
+  index: -1
+emo6
+  rotate: false
+  xy: 1, 1
+  size: 75, 75
+  orig: 270, 300
+  offset: 87, 79
+  index: -1
+fear
+  rotate: false
+  xy: 1, 157
+  size: 268, 300
+  orig: 270, 300
+  offset: 2, 0
+  index: -1

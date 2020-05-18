@@ -1,0 +1,55 @@
+
+book-2025-enemy_spine.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+emo0
+  rotate: false
+  xy: 1, 1
+  size: 52, 41
+  orig: 391, 663
+  offset: 158, 413
+  index: -1
+emo1
+  rotate: false
+  xy: 54, 46
+  size: 52, 41
+  orig: 391, 663
+  offset: 158, 413
+  index: -1
+emo2
+  rotate: false
+  xy: 559, 369
+  size: 52, 41
+  orig: 391, 663
+  offset: 158, 413
+  index: -1
+emo3
+  rotate: false
+  xy: 612, 412
+  size: 52, 41
+  orig: 391, 663
+  offset: 158, 413
+  index: -1
+emo4
+  rotate: false
+  xy: 1, 43
+  size: 52, 44
+  orig: 391, 663
+  offset: 158, 410
+  index: -1
+emo5
+  rotate: false
+  xy: 559, 411
+  size: 52, 42
+  orig: 391, 663
+  offset: 158, 412
+  index: -1
+enemy0
+  rotate: true
+  xy: 1, 88
+  size: 365, 557
+  orig: 391, 663
+  offset: 13, 50
+  index: -1

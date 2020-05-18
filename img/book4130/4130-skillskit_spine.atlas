@@ -1,0 +1,279 @@
+
+book-4130-skillskit_spine.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chara
+  rotate: false
+  xy: 1, 1
+  size: 575, 1020
+  orig: 575, 1020
+  offset: 0, 0
+  index: -1
+eye0
+  rotate: false
+  xy: 684, 957
+  size: 107, 64
+  orig: 575, 1020
+  offset: 236, 770
+  index: -1
+eye18
+  rotate: false
+  xy: 684, 957
+  size: 107, 64
+  orig: 575, 1020
+  offset: 236, 770
+  index: -1
+eye1
+  rotate: true
+  xy: 577, 687
+  size: 107, 64
+  orig: 575, 1020
+  offset: 236, 770
+  index: -1
+eye12
+  rotate: false
+  xy: 577, 946
+  size: 106, 75
+  orig: 575, 1020
+  offset: 236, 767
+  index: -1
+eye2
+  rotate: false
+  xy: 577, 872
+  size: 104, 73
+  orig: 575, 1020
+  offset: 238, 768
+  index: -1
+eye3
+  rotate: false
+  xy: 792, 957
+  size: 107, 64
+  orig: 575, 1020
+  offset: 236, 770
+  index: -1
+eye6
+  rotate: false
+  xy: 900, 958
+  size: 107, 63
+  orig: 575, 1020
+  offset: 236, 770
+  index: -1
+eye9
+  rotate: true
+  xy: 577, 579
+  size: 107, 64
+  orig: 575, 1020
+  offset: 236, 770
+  index: -1
+eye15
+  rotate: true
+  xy: 577, 579
+  size: 107, 64
+  orig: 575, 1020
+  offset: 236, 770
+  index: -1
+eyebrow0
+  rotate: true
+  xy: 642, 682
+  size: 54, 27
+  orig: 575, 1020
+  offset: 244, 824
+  index: -1
+eyebrow1
+  rotate: true
+  xy: 642, 682
+  size: 54, 27
+  orig: 575, 1020
+  offset: 244, 824
+  index: -1
+eyebrow2
+  rotate: true
+  xy: 577, 129
+  size: 49, 27
+  orig: 575, 1020
+  offset: 251, 809
+  index: -1
+eyebrow3
+  rotate: true
+  xy: 629, 439
+  size: 47, 27
+  orig: 575, 1020
+  offset: 250, 812
+  index: -1
+eyebrow4
+  rotate: true
+  xy: 577, 179
+  size: 54, 27
+  orig: 575, 1020
+  offset: 244, 824
+  index: -1
+eyebrow5
+  rotate: true
+  xy: 577, 487
+  size: 91, 64
+  orig: 575, 1020
+  offset: 250, 775
+  index: -1
+eyebrow6
+  rotate: false
+  xy: 577, 795
+  size: 97, 76
+  orig: 575, 1020
+  offset: 244, 775
+  index: -1
+mouth0
+  rotate: true
+  xy: 577, 290
+  size: 56, 39
+  orig: 575, 1020
+  offset: 278, 740
+  index: -1
+mouth18
+  rotate: true
+  xy: 577, 290
+  size: 56, 39
+  orig: 575, 1020
+  offset: 278, 740
+  index: -1
+mouth1
+  rotate: true
+  xy: 577, 234
+  size: 55, 28
+  orig: 575, 1020
+  offset: 278, 748
+  index: -1
+mouth19
+  rotate: true
+  xy: 577, 234
+  size: 55, 28
+  orig: 575, 1020
+  offset: 278, 748
+  index: -1
+mouth10
+  rotate: true
+  xy: 577, 74
+  size: 54, 21
+  orig: 575, 1020
+  offset: 280, 751
+  index: -1
+mouth16
+  rotate: true
+  xy: 577, 74
+  size: 54, 21
+  orig: 575, 1020
+  offset: 280, 751
+  index: -1
+mouth11
+  rotate: true
+  xy: 577, 20
+  size: 53, 19
+  orig: 575, 1020
+  offset: 281, 754
+  index: -1
+mouth17
+  rotate: true
+  xy: 577, 20
+  size: 53, 19
+  orig: 575, 1020
+  offset: 281, 754
+  index: -1
+mouth12
+  rotate: true
+  xy: 606, 247
+  size: 42, 22
+  orig: 575, 1020
+  offset: 292, 750
+  index: -1
+mouth13
+  rotate: false
+  xy: 684, 938
+  size: 42, 18
+  orig: 575, 1020
+  offset: 292, 753
+  index: -1
+mouth14
+  rotate: false
+  xy: 727, 939
+  size: 42, 17
+  orig: 575, 1020
+  offset: 292, 754
+  index: -1
+mouth2
+  rotate: true
+  xy: 1008, 967
+  size: 54, 15
+  orig: 575, 1020
+  offset: 278, 761
+  index: -1
+mouth20
+  rotate: true
+  xy: 1008, 967
+  size: 54, 15
+  orig: 575, 1020
+  offset: 278, 761
+  index: -1
+mouth3
+  rotate: true
+  xy: 577, 347
+  size: 60, 38
+  orig: 575, 1020
+  offset: 274, 742
+  index: -1
+mouth4
+  rotate: true
+  xy: 642, 737
+  size: 57, 27
+  orig: 575, 1020
+  offset: 276, 751
+  index: -1
+mouth5
+  rotate: true
+  xy: 642, 521
+  size: 54, 18
+  orig: 575, 1020
+  offset: 278, 759
+  index: -1
+mouth6
+  rotate: true
+  xy: 642, 631
+  size: 50, 30
+  orig: 575, 1020
+  offset: 284, 744
+  index: -1
+mouth7
+  rotate: true
+  xy: 616, 360
+  size: 47, 21
+  orig: 575, 1020
+  offset: 285, 752
+  index: -1
+mouth8
+  rotate: true
+  xy: 1008, 920
+  size: 46, 15
+  orig: 575, 1020
+  offset: 285, 758
+  index: -1
+mouth9
+  rotate: true
+  xy: 642, 576
+  size: 54, 22
+  orig: 575, 1020
+  offset: 281, 749
+  index: -1
+mouth15
+  rotate: true
+  xy: 642, 576
+  size: 54, 22
+  orig: 575, 1020
+  offset: 281, 749
+  index: -1
+option
+  rotate: true
+  xy: 577, 408
+  size: 78, 51
+  orig: 575, 1020
+  offset: 253, 774
+  index: -1

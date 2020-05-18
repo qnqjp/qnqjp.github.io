@@ -1,0 +1,195 @@
+
+book-1305-skillskit_spine.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+000b
+  rotate: false
+  xy: 1877, 401
+  size: 80, 76
+  orig: 640, 1020
+  offset: 456, 805
+  index: -1
+000e0
+  rotate: false
+  xy: 918, 18
+  size: 88, 87
+  orig: 640, 1020
+  offset: 449, 787
+  index: -1
+000e1
+  rotate: false
+  xy: 1096, 22
+  size: 85, 83
+  orig: 640, 1020
+  offset: 445, 784
+  index: -1
+000e2
+  rotate: false
+  xy: 1877, 478
+  size: 83, 85
+  orig: 640, 1020
+  offset: 443, 778
+  index: -1
+000m0
+  rotate: false
+  xy: 1335, 81
+  size: 29, 26
+  orig: 640, 1020
+  offset: 449, 778
+  index: -1
+005b
+  rotate: false
+  xy: 1877, 324
+  size: 80, 76
+  orig: 640, 1020
+  offset: 456, 805
+  index: -1
+005e
+  rotate: false
+  xy: 1877, 564
+  size: 79, 91
+  orig: 640, 1020
+  offset: 449, 783
+  index: -1
+005m0
+  rotate: false
+  xy: 1977, 992
+  size: 27, 31
+  orig: 640, 1020
+  offset: 451, 777
+  index: -1
+010b
+  rotate: true
+  xy: 1182, 26
+  size: 79, 72
+  orig: 640, 1020
+  offset: 459, 810
+  index: -1
+010e
+  rotate: true
+  xy: 1877, 656
+  size: 89, 85
+  orig: 640, 1020
+  offset: 451, 790
+  index: -1
+010m0
+  rotate: false
+  xy: 1375, 109
+  size: 31, 36
+  orig: 640, 1020
+  offset: 451, 775
+  index: -1
+015b
+  rotate: false
+  xy: 1966, 765
+  size: 81, 71
+  orig: 640, 1020
+  offset: 454, 804
+  index: -1
+015e
+  rotate: false
+  xy: 829, 15
+  size: 88, 90
+  orig: 640, 1020
+  offset: 448, 785
+  index: -1
+015m0
+  rotate: false
+  xy: 1934, 223
+  size: 19, 24
+  orig: 640, 1020
+  offset: 453, 779
+  index: -1
+030m0
+  rotate: false
+  xy: 1934, 223
+  size: 19, 24
+  orig: 640, 1020
+  offset: 453, 779
+  index: -1
+020b
+  rotate: false
+  xy: 1877, 248
+  size: 79, 75
+  orig: 640, 1020
+  offset: 456, 803
+  index: -1
+020e
+  rotate: false
+  xy: 1007, 19
+  size: 88, 86
+  orig: 640, 1020
+  offset: 448, 786
+  index: -1
+020m0
+  rotate: false
+  xy: 1407, 120
+  size: 23, 25
+  orig: 640, 1020
+  offset: 452, 780
+  index: -1
+025b
+  rotate: false
+  xy: 640, 1
+  size: 188, 104
+  orig: 640, 1020
+  offset: 354, 777
+  index: -1
+025e
+  rotate: true
+  xy: 1877, 837
+  size: 186, 99
+  orig: 640, 1020
+  offset: 354, 777
+  index: -1
+025m0
+  rotate: false
+  xy: 1247, 108
+  size: 127, 37
+  orig: 640, 1020
+  offset: 354, 774
+  index: -1
+025w
+  rotate: true
+  xy: 1877, 151
+  size: 96, 56
+  orig: 640, 1020
+  offset: 354, 777
+  index: -1
+030b
+  rotate: false
+  xy: 1255, 34
+  size: 79, 73
+  orig: 640, 1020
+  offset: 452, 799
+  index: -1
+030e
+  rotate: false
+  xy: 1877, 746
+  size: 88, 90
+  orig: 640, 1020
+  offset: 448, 785
+  index: -1
+chr0
+  rotate: false
+  xy: 1, 3
+  size: 638, 1020
+  orig: 640, 1020
+  offset: 2, 0
+  index: -1
+efx0
+  rotate: false
+  xy: 640, 106
+  size: 606, 917
+  orig: 640, 1020
+  offset: 31, 25
+  index: -1
+efx1
+  rotate: false
+  xy: 1247, 146
+  size: 629, 877
+  orig: 640, 1020
+  offset: 0, 125
+  index: -1

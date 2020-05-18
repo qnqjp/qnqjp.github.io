@@ -1,0 +1,160 @@
+
+book-3345-skillskit_spine.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+c0_ang0
+  rotate: true
+  xy: 1897, 1716
+  size: 73, 64
+  orig: 612, 1020
+  offset: 127, 847
+  index: -1
+c0_atked0
+  rotate: false
+  xy: 1827, 1942
+  size: 69, 75
+  orig: 612, 1020
+  offset: 131, 810
+  index: -1
+c0_atked1
+  rotate: false
+  xy: 1827, 1866
+  size: 69, 75
+  orig: 612, 1020
+  offset: 131, 810
+  index: -1
+c0_atked2
+  rotate: false
+  xy: 1897, 1942
+  size: 69, 75
+  orig: 612, 1020
+  offset: 131, 810
+  index: -1
+c0_def0
+  rotate: false
+  xy: 1827, 1606
+  size: 69, 32
+  orig: 612, 1020
+  offset: 131, 853
+  index: -1
+c0_def1
+  rotate: true
+  xy: 1897, 1646
+  size: 69, 32
+  orig: 612, 1020
+  offset: 131, 853
+  index: -1
+c0_def2
+  rotate: false
+  xy: 1827, 1573
+  size: 69, 32
+  orig: 612, 1020
+  offset: 131, 853
+  index: -1
+c0_joy0
+  rotate: false
+  xy: 1967, 1867
+  size: 69, 74
+  orig: 612, 1020
+  offset: 131, 811
+  index: -1
+c0_skill0
+  rotate: false
+  xy: 1827, 1790
+  size: 69, 75
+  orig: 612, 1020
+  offset: 131, 810
+  index: -1
+c1_ang0
+  rotate: true
+  xy: 1967, 1793
+  size: 73, 64
+  orig: 612, 1020
+  offset: 127, 847
+  index: -1
+c1_atked0
+  rotate: false
+  xy: 1897, 1866
+  size: 69, 75
+  orig: 612, 1020
+  offset: 131, 810
+  index: -1
+c1_atked1
+  rotate: false
+  xy: 1967, 1942
+  size: 69, 75
+  orig: 612, 1020
+  offset: 131, 810
+  index: -1
+c1_atked2
+  rotate: false
+  xy: 1827, 1714
+  size: 69, 75
+  orig: 612, 1020
+  offset: 131, 810
+  index: -1
+c1_def0
+  rotate: true
+  xy: 1897, 1576
+  size: 69, 32
+  orig: 612, 1020
+  offset: 131, 853
+  index: -1
+c1_def1
+  rotate: false
+  xy: 1827, 1540
+  size: 69, 32
+  orig: 612, 1020
+  offset: 131, 853
+  index: -1
+c1_def2
+  rotate: false
+  xy: 1827, 1507
+  size: 69, 32
+  orig: 612, 1020
+  offset: 131, 853
+  index: -1
+c1_joy0
+  rotate: false
+  xy: 1827, 1639
+  size: 69, 74
+  orig: 612, 1020
+  offset: 131, 811
+  index: -1
+c1_skill0
+  rotate: false
+  xy: 1897, 1790
+  size: 69, 75
+  orig: 612, 1020
+  offset: 131, 810
+  index: -1
+chr0
+  rotate: false
+  xy: 614, 1022
+  size: 606, 995
+  orig: 612, 1020
+  offset: 1, 23
+  index: -1
+chr1
+  rotate: false
+  xy: 1, 1
+  size: 606, 995
+  orig: 612, 1020
+  offset: 1, 23
+  index: -1
+efx0
+  rotate: false
+  xy: 1, 997
+  size: 612, 1020
+  orig: 612, 1020
+  offset: 0, 0
+  index: -1
+efx1
+  rotate: false
+  xy: 1221, 1032
+  size: 605, 985
+  orig: 612, 1020
+  offset: 3, 26
+  index: -1

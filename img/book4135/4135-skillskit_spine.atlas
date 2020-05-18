@@ -1,0 +1,118 @@
+
+book-4135-skillskit_spine.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chara
+  rotate: false
+  xy: 2, 2
+  size: 638, 1020
+  orig: 638, 1020
+  offset: 0, 0
+  index: -1
+emo0
+  rotate: true
+  xy: 642, 362
+  size: 88, 67
+  orig: 638, 1020
+  offset: 248, 819
+  index: -1
+emo1
+  rotate: true
+  xy: 642, 272
+  size: 88, 67
+  orig: 638, 1020
+  offset: 248, 819
+  index: -1
+emo10
+  rotate: false
+  xy: 819, 856
+  size: 84, 78
+  orig: 638, 1020
+  offset: 267, 677
+  index: -1
+emo11
+  rotate: false
+  xy: 819, 786
+  size: 84, 68
+  orig: 638, 1020
+  offset: 267, 687
+  index: -1
+emo12
+  rotate: false
+  xy: 642, 608
+  size: 84, 87
+  orig: 638, 1020
+  offset: 267, 667
+  index: -1
+emo13
+  rotate: false
+  xy: 819, 936
+  size: 86, 86
+  orig: 638, 1020
+  offset: 265, 673
+  index: -1
+emo2
+  rotate: true
+  xy: 747, 723
+  size: 90, 67
+  orig: 638, 1020
+  offset: 248, 819
+  index: -1
+emo3
+  rotate: true
+  xy: 642, 92
+  size: 87, 67
+  orig: 638, 1020
+  offset: 249, 819
+  index: -1
+emo4
+  rotate: true
+  xy: 642, 181
+  size: 89, 66
+  orig: 638, 1020
+  offset: 249, 819
+  index: -1
+emo5
+  rotate: true
+  xy: 642, 4
+  size: 86, 66
+  orig: 638, 1020
+  offset: 250, 817
+  index: -1
+emo6
+  rotate: false
+  xy: 642, 697
+  size: 103, 116
+  orig: 638, 1020
+  offset: 242, 816
+  index: -1
+emo7
+  rotate: false
+  xy: 907, 946
+  size: 84, 76
+  orig: 638, 1020
+  offset: 267, 679
+  index: -1
+emo8
+  rotate: false
+  xy: 642, 530
+  size: 84, 76
+  orig: 638, 1020
+  offset: 267, 679
+  index: -1
+emo9
+  rotate: false
+  xy: 642, 452
+  size: 84, 76
+  orig: 638, 1020
+  offset: 267, 679
+  index: -1
+option0
+  rotate: false
+  xy: 642, 815
+  size: 175, 207
+  orig: 638, 1020
+  offset: 209, 768
+  index: -1

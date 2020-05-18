@@ -1,0 +1,55 @@
+
+book-2150-enemy_spine.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+emo0
+  rotate: false
+  xy: 1, 49
+  size: 45, 47
+  orig: 378, 612
+  offset: 143, 452
+  index: -1
+emo1
+  rotate: false
+  xy: 559, 403
+  size: 45, 47
+  orig: 378, 612
+  offset: 143, 452
+  index: -1
+emo2
+  rotate: false
+  xy: 47, 49
+  size: 44, 47
+  orig: 378, 612
+  offset: 144, 452
+  index: -1
+emo3
+  rotate: false
+  xy: 1, 1
+  size: 45, 47
+  orig: 378, 612
+  offset: 143, 450
+  index: -1
+emo4
+  rotate: false
+  xy: 559, 357
+  size: 45, 45
+  orig: 378, 612
+  offset: 143, 450
+  index: -1
+emo5
+  rotate: false
+  xy: 605, 408
+  size: 47, 42
+  orig: 378, 612
+  offset: 141, 451
+  index: -1
+enemy0
+  rotate: true
+  xy: 1, 97
+  size: 353, 557
+  orig: 378, 612
+  offset: 13, 24
+  index: -1
