@@ -17,6 +17,29 @@
 			width: 100%;
 			height: 100%;
 		}
+		.jqui-dialog {
+			text-emphasis-color: red;
+			border:outset 8px rgb(83, 70, 70);
+			background: rgb(206, 230, 248);
+			-moz-border-radius: 20px;
+			-webkit-border-radius: 20px;
+			border-radius: 8px;
+			width: fit-content;
+			width: -webkit-fit-content;
+			width: -moz-fit-content;
+			/* height: 350vy; */
+			position: fixed;
+			/* overflow-y: scroll; */
+			overflow-x: hidden;
+			overflow-y: auto;
+		}
+		.jqui-dialog div {
+			/* background: rgb(112, 255, 255);
+			-moz-border-rgb: rgb(255, 112, 172); */
+			align-items: center;
+			align-self: center;
+			text-align:center;
+		}
 	</style>
 </head>
 
@@ -24,7 +47,12 @@
 	<div id="wrapper">
 		<div id="main">
 			<div class="embeded">
-				<div id="mainDialog" style="background-color: rgb(211, 246, 255);"></div>
+				<!-- <div id="mainDialog" title="カードを選んでください / 請選擇卡圖"></div> -->
+				<div id="mainDialog">
+					<div>
+						<h2>カードを選んでください / 請選擇卡圖</h2>
+					</div>
+				</div>
 				<iframe id="iframe-div" src="" width="100%" height="100%" frameborder="0" allowfullscreen
 					onload="setIframeHeight(this)"></iframe>
 				<!-- <dialog id="mainDialog">
@@ -63,7 +91,7 @@
 					</ul>
 				</nav>
 				<footer id="footer">
-					<p class="copyright">Site Create: 鳥祐<br>HTML Design: <a href="https://html5up.net">HTML5 UP</a></p>
+					<p class="copyright">Site Create: 鳥祐<br>HTML Design: <a href="https://html5up.net" target="_blank">HTML5 UP</a></p>
 				</footer>
 			</div>
 		</div>
@@ -140,21 +168,24 @@
 			$("#mainDialog").dialog("open") ;
 		});
 		$("#mainDialog").dialog({
-			title: "カードを選んでください / 請選擇卡圖　",
+			// title: "カードを選んでください / 請選擇卡圖　",
 			show: true,
 			resizable: true,
 			modal: true,
 			autoOpen: false,
-			height: 'auto',
+			// height: 'auto',
 			width: 'auto',
-			buttons: {
-				// "奇": function() {
-				// $( this ).dialog( "close" );
-				// },
-				Close: function() {
-					$( this ).dialog( "close" );
-				}
-			}
+			maxHeight: window.innerHeight,
+			// overflow:'scroll',
+			dialogClass: 'jqui-dialog',
+			// buttons: {
+			// 	// "奇": function() {
+			// 	// $( this ).dialog( "close" );
+			// 	// },
+			// 	Close: function() {
+			// 		$( this ).dialog( "close" );
+			// 	}
+			// }
 		});
 	</script>
 </body>
