@@ -1,11 +1,5 @@
 <!DOCTYPE HTML>
-<!--
-	Editorial by HTML5 UP
-	html5up.net | @ajlkn
-	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
--->
 <html>
-
 <head>
     <title>iframe</title>
     <meta charset="utf-8" />
@@ -16,16 +10,13 @@
 </head>
 
 <body class="is-preload">
-
-    <!-- Wrapper -->
     <div id="wrapper">
-
-        <!-- Main -->
         <div id="main">
             <div class="inner">
                 <ul class="docs-pictures clearfix" id="viewerjs" style="display: none;"></ul>
             </div>
         </div>
+    </div>
 
 
         <!-- Scripts -->
@@ -34,7 +25,6 @@
         <script src="assets/js/breakpoints.min.js"></script>
         <script src="assets/js/util.js"></script>
         <script src="assets/js/main.js"></script>
-        <!-- <script src="assets/js/viewer-jquery.min.js"></script> -->
         <script src="https://cdnjs.cloudflare.com/ajax/libs/viewerjs/1.5.0/viewer.min.js"></script>
         <script src="assets/js/string.format.js"></script>
         <script>
@@ -58,26 +48,16 @@
                 $('#viewerjs').append(
                     $('<li>').append(
                         $('<img>')
-                        .attr('src', dmurl)
+                            .attr('src', dmurl)
                     ));
             });
-            // var viewer = $('#viewerjs').viewer({
-            //     url: 'src',
-            // });
-            // viewer.show();
 
-            window.addEventListener('DOMContentLoaded', function() {
-
+            window.addEventListener('DOMContentLoaded', function () {
                 var viewer = new Viewer(document.getElementById('viewerjs'), {
-                    hidden: function() {
-                        viewer.destroy();
-                    },
+                    hidden: () => viewer.show()
                 });
-
-                // image.click();
                 viewer.show();
             });
         </script>
 </body>
-
 </html>

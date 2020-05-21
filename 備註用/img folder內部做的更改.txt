@@ -1,0 +1,13 @@
+每本書的.mp4一律換成booknum.mp4
+沒有在分長短的了
+
+刪除所有在網頁上用不到的skel檔案
+
+
+chcp 65001
+for /r %~dp0 %%i in (.) do (
+	cd %%~ni
+	ren *.mp4 %%~ni.mp4
+	del *.skel
+	cd ..
+)

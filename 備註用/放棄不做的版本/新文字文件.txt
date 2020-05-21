@@ -1,0 +1,13 @@
+現行版本是iframe版本
+index.html提供選擇框架
+顯示圖片由itsiframe.html進行作業
+
+放棄的版本 *index(re-viewer).html
+這個是嘗試使用單一個html、單一個viewer做出可以切換booknum時也可以正常展現viewer的做法
+可是實際上在切換圖片的html的時候viewr不再重新讀取
+所以換booknum後就沒有跳出viwer了
+
+
+放棄的版本 *itsiframe(display-img).html
+這個在顯示圖片的html區塊沒有做display: none;
+而且沒有call view()function造成不自啟動
